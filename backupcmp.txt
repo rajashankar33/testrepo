@@ -16,7 +16,5 @@
 <h2>   <% HelloWorld hlw = new HelloWorld();
 hlw.putString();%>hi1
         </h2>
-    </body>
-</html>
+    </body>t
 
-test
