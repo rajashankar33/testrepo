@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/sandboxsite" mode="merge"/>
+    <filter root="/content/sandboxsite" mode="merge"/>
+    <filter root="/content/dam/sandboxsite" mode="merge"/>
+    <filter root="/content/experience-fragments/sandboxsite" mode="merge"/>
+</workspaceFilter>
