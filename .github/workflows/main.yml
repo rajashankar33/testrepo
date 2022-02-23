@@ -37,9 +37,8 @@ jobs:
           
       - name: Run a code pull and commit
         run: |
-              git remote add origin https:///rajashankar33@gmail.com:It$meleo33/github.com/rajashankar33/aemrepo
               git checkout dev
               git pull 
               git branch
               git remote -v
-              git push origin dev
+             
