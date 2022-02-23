@@ -41,4 +41,4 @@ jobs:
               git remote -v
               git remote add heroku https://rajashankar33:It$meleo33@github.com/rajashankar33/aemrepo.git
               git remote -v
-              git push heroku HEAD:dev -f
+              git push heroku HEAD:master -f
