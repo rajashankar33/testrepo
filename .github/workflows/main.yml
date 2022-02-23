@@ -37,8 +37,6 @@ jobs:
           
       - name: Run a code pull and commit
         run: |
-              git checkout dev
-              git pull 
               git branch
               git remote -v
              
