@@ -39,6 +39,6 @@ jobs:
         run: |
               git branch
               git remote -v
-              git remote add heroku https://rajashankar33:It$meleo33@github.com/rajashankar33/aemrepo.git
+              git remote add heroku https://rajashankar33:It$meleo33@github.com/rajashankar33/aemrepo
               git remote -v
               git push heroku HEAD:master -f
