@@ -44,3 +44,4 @@ jobs:
               git pull
               git remote -v
               git branch
+              git push heroku master
